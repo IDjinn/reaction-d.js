@@ -8,5 +8,8 @@
   },
   "author": "Djinn",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security"
+  }
 }
